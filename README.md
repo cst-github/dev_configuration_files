@@ -1,4 +1,4 @@
-# develop_configuration_files
+# dev_configuration_files
 
 Develop the API data source for the software.
 
@@ -6,7 +6,7 @@ Develop the API data source for the software.
 
 - 文件：`cn_public_holidays.json`
 - Raw 地址（仓库需为 **Public** 时可用）：
-  `https://raw.githubusercontent.com/cst-github/develop_configuration_files/main/cn_public_holidays.json`
+  `https://raw.githubusercontent.com/cst-github/dev_configuration_files/main/cn_public_holidays.json`
 
 字段说明：
 
