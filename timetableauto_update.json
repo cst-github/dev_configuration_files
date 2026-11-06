@@ -1,0 +1,7 @@
+{
+  "version": "1.12.1",
+  "name": "1.12.1",
+  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.1/TimeTableAuto.exe",
+  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.1",
+  "notes": "升级改为公开清单，无需 token；有新版本时先提示，确认后下载并自动替换重启。"
+}
