@@ -1,7 +1,7 @@
 {
-  "version": "1.12.8",
-  "name": "1.12.8",
-  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.8/TimeTableAuto.exe",
-  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.8",
-  "notes": "品牌区移到底部；标题 TimeTableAutoConfig For TimeTracking；工具栏增加更改记录。"
+  "version": "1.12.9",
+  "name": "1.12.9",
+  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.9/TimeTableAuto.exe",
+  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.9",
+  "notes": "修复升级重启 Failed to load Python DLL：干净系统环境 + cmd start。"
 }
