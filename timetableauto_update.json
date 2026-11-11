@@ -1,7 +1,7 @@
 {
-  "version": "1.12.9",
-  "name": "1.12.9",
-  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.9/TimeTableAuto.exe",
-  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.9",
-  "notes": "修复升级重启 Failed to load Python DLL：干净系统环境 + cmd start。"
+  "version": "1.12.10",
+  "name": "1.12.10",
+  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.10/TimeTableAuto.exe",
+  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.10",
+  "notes": "升级完成后不再自动重启，请手动打开 TimeTableAuto.exe。"
 }
