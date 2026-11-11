@@ -1,7 +1,7 @@
 {
-  "version": "1.12.5",
-  "name": "1.12.5",
-  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.5/TimeTableAuto.exe",
-  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.5",
-  "notes": "修复升级重启后 Failed to load Python DLL（清理 _MEIPASS 等环境变量）。"
+  "version": "1.12.6",
+  "name": "1.12.6",
+  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.6/TimeTableAuto.exe",
+  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.6",
+  "notes": "主标题前增加 PayRange logo；「读取配置信息」移到菜单「配置」。"
 }
