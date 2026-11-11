@@ -1,7 +1,7 @@
 {
-  "version": "1.12.4",
-  "name": "1.12.4",
-  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.4/TimeTableAuto.exe",
-  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.4",
-  "notes": "界面美化：标题区、分区卡片、主按钮与深色日志；输入框宽度对齐。"
+  "version": "1.12.5",
+  "name": "1.12.5",
+  "download_url": "https://github.com/cst-github/dev_configuration_files/releases/download/timetableauto-v1.12.5/TimeTableAuto.exe",
+  "html_url": "https://github.com/cst-github/dev_configuration_files/releases/tag/timetableauto-v1.12.5",
+  "notes": "修复升级重启后 Failed to load Python DLL（清理 _MEIPASS 等环境变量）。"
 }
